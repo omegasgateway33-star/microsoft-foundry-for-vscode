@@ -27,6 +27,10 @@ The Microsoft Foundry extension for Visual Studio Code has an dependency on the 
 - [Azure Resources](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-azureresourcegroups)
 - [AI Toolkit for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=ms-windows-ai-studio.windows-ai-studio)
 
+
+## Troubleshooting
+- [Termux troubleshooting for `command not found` while creating extension manifests](docs/termux-troubleshooting.md)
+
 ## Learn more
 - [Microsoft Foundry Documentation](https://learn.microsoft.com/azure/ai-studio/what-is-ai-studio)
 
